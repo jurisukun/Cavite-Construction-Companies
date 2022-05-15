@@ -1,0 +1,369 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+a{
+  text-decoration: none;
+}
+h1 {
+  color: #000080;
+  font-weight: 600;
+  font-size: 2rem;
+  opacity: 0.8;
+}
+p {
+  color: #000080;
+  font-weight: 500;
+  opacity: 0.8;
+}
+
+main {
+  font-family: "Poppins", sans-serif;
+  min-height: 100vh;
+  background: linear-gradient(to right top, #000080, #6cdbeb);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.glass {
+  background: white;
+  max-height: 90vh;
+  height: 90vh ;
+  width: 80%;
+  background: linear-gradient(
+    to right bottom,
+    rgba(255, 255, 255, 0.7),
+    rgba(255, 255, 255, 0.3)
+  );
+  border-radius: 2rem;
+  z-index: 2;
+  backdrop-filter: blur(2rem);
+  display: flex;
+}
+.box1,
+.box2 {
+  background: white;
+  background: linear-gradient(
+    to right bottom,
+    rgba(255, 255, 255, 0.8),
+    rgba(255, 255, 255, 0.3)
+  );
+  height: 10rem;
+  width: 10rem;
+  position: absolute;
+  border-radius: 15%;
+}
+
+.box1 {
+  top: 2%;
+  right: 5%;
+}
+.box2 {
+  bottom: 2%;
+  left: 5%;
+}
+
+
+.sidebar {
+  flex: 1;
+  background: linear-gradient(
+    to right bottom,
+    rgba(255, 255, 255, 0.7),
+    rgba(255, 255, 255, 0.3)
+  );
+  border-radius: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+.sidebar img{
+   width: 100px;
+   cursor: pointer;
+   margin: -22px;;
+}
+.sidebar h1{
+    font-size: 30px;
+    margin-top: 28px;
+}
+.top{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+.top a{
+  margin-top: 40px;
+  font-size: 20px;
+  text-decoration: none;
+  font-weight: 600;
+  color: #000080;
+}
+
+.links{
+  height: 65%;
+  width:100%;
+  padding-bottom: 15px;
+  overflow-y: scroll;
+}
+.links::-webkit-scrollbar {
+  display: none;
+}
+.content::-webkit-scrollbar {
+  display: none;
+}
+.place{
+  padding-top: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  text-align: center;
+  width: 100%;
+ 
+
+}
+.place a{
+    padding: 5px;
+    text-decoration: none;
+    color: #000080;
+}
+.a:hover{
+  color: #fff;
+  font-style: bold;
+}
+.place i{
+    font-size: 50px;
+    color: #000080;
+}
+
+.content{
+  flex: 4;
+  margin: 2rem;
+
+}
+.content{
+ 
+  height: 500px;
+}
+.content h1{
+  font-size: 30px;
+  margin-left: 10px;
+}
+
+.companies{
+  margin: 10px 0px;
+  padding-top:15px;
+}
+
+#compInfoTemplateDiv{
+  display: none
+}
+
+#cNameDiv{
+  font-size: 25px;
+  color: white;
+  font-style: bold;
+  padding: 15px;
+  padding-bottom: 0;
+  padding-left: 0;
+
+}
+#cAddDiv{
+  font-size: 15px;
+  color: rgb(0, 0, 0);
+  font-style: italic;
+  margin-top: 0px;
+
+}
+
+#cPhoneDiv{
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+  margin-top: 20px;
+  
+}
+
+#cEmailDiv,#cWebDiv,#cDescDiv,#cAchieveDiv{
+  margin-top: 20px;
+}
+
+#back_bttn{
+  display: inline-block;
+  text-decoration: none;
+  border: 1px solid #fff;
+  background-color: #000080;
+  color: #fff;
+  padding: 10px 10px;
+  font-size: 14px;
+  margin-top: 22px;
+  border-radius: 20px;
+  font-size: 14px;
+}
+#back_bttn:hover{
+  background-color: #6cdbeb;
+  border-radius: 20px;
+  transition: 0.5s;
+  color: #fff;
+  font-size: 14px;
+}
+
+#parentDiv{
+  padding:10px;
+  margin-top: 20px;
+}
+.compNameDiv {
+ 
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-bottom: 25px;
+  border: 2px solid #fff;
+  padding-left: 20px;
+  border-radius: 20px;
+}
+
+.compNameList,.compAddressList{
+  margin:0;
+  padding:0
+}
+.compNameList{
+  font-size: 20px;
+  color:#fff;
+  font-style: bold;
+}
+.compAddressList{
+  font-size: 14px;
+}
+ .distDivs{
+   display:none;
+   width:100%
+ }
+ .a{
+   width: 100%;
+ }
+ .distBttns{
+    padding: 10px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #000080;
+    width: 150px;
+    border-radius: 20px;
+    margin-top: 5px;
+    border:none;
+ }
+.distBttns:hover{
+    width: 150px;
+    background-color: #6cdbeb;
+    border-radius: 20px;
+    margin: 2px 0rem;
+    transition: 0.5s;
+    color: #fff;
+}
+
+ #firstDistDiv{
+    padding: 5px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #709ED6;
+    width: 150px;
+    border-radius: 20px;
+    margin-top: 5px;
+ }
+ #secDistDiv{
+    padding: 5px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #709ED6;
+    width: 150px;
+    border-radius: 20px;
+    margin-top: 5px;
+ }
+ #thirdDistDiv{
+    padding: 5px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #709ED6;
+    width: 150px;
+    border-radius: 20px;
+    margin-top: 5px;
+}
+#fourthDistDiv{
+    padding: 5px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #709ED6;
+    width: 150px;
+    border-radius: 20px;
+    margin-top: 5px;
+}
+#fifthDistDiv{
+    padding: 5px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #709ED6;
+    width: 150px;
+    border-radius: 20px;
+    margin-top: 5px;
+}   
+#sixthDistDiv{
+    padding: 5px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #709ED6;
+    width: 150px;
+    border-radius: 20px;
+    margin-top: 5px;
+}
+#sevDistDiv{
+    padding: 5px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #709ED6;
+    width: 150px;
+    border-radius: 20px;
+    margin-top: 5px;
+}
+#eightDistDiv{
+    padding: 5px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #709ED6;
+    width: 150px;
+    border-radius: 20px;
+    margin-top: 5px;
+}
+#info{
+  height:480px;
+  width: 100%;
+  overflow-y: scroll;
+  
+}
+#info::-webkit-scrollbar {
+  display: none;
+}
+#h1Head{
+  text-align: center;
+ margin: auto;
+  margin-top:25%;
+ display:block;
+  
+}
+#numpageDiv{
+  display: block;
+  margin-top:15px
+}
+
+.bttnPages{
+  width:30px;
+  background-color: #000080;
+  color: white;
+  border-radius: 5px;
+  margin-right: 5px;
+  height: 30px;
+}
+
+.activePage{
+  background-color: #6cdbeb;
+  color:black
+}
