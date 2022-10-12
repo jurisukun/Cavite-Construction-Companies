@@ -1,0 +1,34 @@
+{
+    "0":{"name":"CORNERSTONES8 REALTY CORP.", 
+      "address": "ADDRESS: B Mangas I Alfonso, Cavite, 4123 Philippines", 
+      "contact":["CONTACT NUMBER: 0917 316 0322"],
+      "email":["EMAIL ADRESS: N/A"],
+      "website":["https://www.facebook.com/cornerstones8/"],
+      "desc":"OVERVIEW: CORNERSTONES8 REALTY CORP. is located in Alfonso, Cavite, Philippines and is part of the Land Subdivision Industry.",
+      "achievements":[]},
+
+    "1":{"name":"#57 SOLAR AND WIND ENERGY SYSTEMS INC.", 
+      "address": "ADDRESS: 57 Commercial Center Unit 6 5223 Kaysuyo Kaytitinga Road Kaysuyo Alfonso, Cavite, 4123 Philippines", 
+      "contact":["CONTACT NUMBER: 0917 316 0322"],
+      "email":["EMAIL ADRESS: 57solwind@gmail.com"],
+      "website":["https://www.solwindenergy.com/about-solwind-solar-wind-energy/"],
+      "desc":"OVERVIEW: #57 SOLAR AND WIND ENERGY SYSTEMS INC. is located in Alfonso, Cavite, Philippines and is part of the Other Specialty Trade Contractors Industry. #57 Solar And Wind Energy Systems Inc., also known as “SOLWIND”, was established in 2018 by Kaysuyo, Alfonso residents Jequilyn Morales and Jayson Lilang. Their goal is to provide renewable energy products and services to Cavite and Batangas area.",
+      "achievements":[]},
+
+    "2":{"name":"GDC Design & Build", 
+      "address": "ADDRESS: 2/F Fenway Commons Bldg. Blk 2, Lot 6, Emilio Aguinaldo Highway, Luksuhin Ilaya 4123 Alfonso, Philippines", 
+      "contact":["CONTACT NUMBER: 0921-289-4593 | 0977-394-1099"],
+      "email":["EMAIL ADRESS: mktg@granvizionne.com"],
+      "website":["www.granvizionnecorp.com"],
+      "desc":[],
+      "achievements":[]},
+    
+    "3":{"name":"ALCAV Construction Materials Testing Center", 
+      "address": "ADDRESS: Lucsuhin Mangas Rd., Brgy. Mangas 1, Alfonso, Cavite in front of Altron Gas Station 4123 Alfonso, Philippines", 
+      "contact":["CONTACT NUMBER: (046)890-0469  | 0956-488-9311"],
+      "email":["EMAIL ADRESS: alcavcmtc@gmail.com"],
+      "website":["https://alcavcmtc.wixsite.com/website"],
+      "desc":[],
+      "achievements":[]}
+
+}

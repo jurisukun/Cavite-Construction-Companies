@@ -1,0 +1,51 @@
+{
+    "0":{"name":"ANT INDUSTRIAL WORKS INC.", 
+      "address":"ADDRESS: Block 21, Lot 2, Carmelita Street, Stateland Hills Subdivision, Manggahan Gen. Trias, Cavite, 4107 Philippines", 
+      "contact":["CONTACT NUMBER: Telephone Number: +63 46 402 1220 | Manila Number: 632 869 78987 / 632 873 67191"],
+      "email":["EMAIL ADRESS: For company inquiries: engineering@antindustrialworksinc.com | sales@antindustrialworksinc.com","For Applicants: hr@antindustrialworks.com | ruthperez@antindustrialworksinc.com"],
+      "website":["http://antindustrialworks.com/ "],
+      "desc":["OVERVIEW: ANT INDUSTRIAL WORKS INC. is located in Gen. Trias, Cavite, Philippines and is part of the Building Equipment Contractors Industry.",
+        "ANT Industrial Works, Inc. engages in the fabrication, installation, and maintenance of Mechanical Engineering Works such as Heating, Ventilating and Air Conditioning - Ducting and Piping Systems, Automation Controls, Fire Protection Systems, Plumbing Systems, Compressed Air Systems, and other related applications in Industrial and Commercial buildings."],
+      "achievements":[]},
+
+    "1":{"name":"ALL-IN CONSTRUCTION CORPORATION", 
+      "address":"ADDRESS: Lot 27 & 29, Blk. 20 Corner Ruby Street Stateland Hills Subd., Manggahan Gen. Trias, Cavite, 4107 Philippines", 
+      "contact":["CONTACT NUMBER: +63-9175986559"],
+      "email":[],
+      "website":[],
+      "desc":["OVERVIEW: ALL-IN CONSTRUCTION CORPORATION is located in Gen. Trias, Cavite, Philippines and is part of the Other Specialty Trade Contractors Industry."],
+      "achievements":[]},
+
+    "2":{"name":"JHAM ROE CONSTRUCTION CORP.", 
+      "address":"ADDRESS: Sec 7 Blk. 6 Lot 4 Terante St.Belmont Hills Subd., Pasong Kawayan II Gen. Trias, Cavite, 4107 Philippines", 
+      "contact":["CONTACT NUMBER: +63-464230833"],
+      "email":[],
+      "website":[],
+      "desc":["OVERVIEW: JHAM ROE CONSTRUCTION CORP. is located in Gen. Trias, Cavite, Philippines and is part of the Other Specialty Trade Contractors Industry."],
+      "achievements":[]},
+
+    "3":{"name":"DGCB GENERAL CONSTRUCTION CORPORATION", 
+      "address":"ADDRESS: Blk 70 Lot 46 Bella Vista Santiago Gen. Trias, Cavite, 4107 Philippines", 
+      "contact":["CONTACT NUMBER: +63-9222613664"],
+      "email":[],
+      "website":[],
+      "desc":["OVERVIEW: DGCB GENERAL CONSTRUCTION CORPORATION is located in Gen. Trias, Cavite, Philippines and is part of the Other Specialty Trade Contractors Industry."],
+      "achievements":[]},
+
+    "4":{"name":"BAGAYAS CONSTRUCTION SERVICES", 
+      "address":"ADDRESS: Block 3, Lot 56, Sunstone Street, MS5, Lancaster, Barangay Navarro Gen. Trias, Cavite, 4107 Philippines", 
+      "contact":["CONTACT NUMBER: +63-9458041912"],
+      "email":[],
+      "website":[],
+      "desc":["OVERVIEW: BAGAYAS CONSTRUCTION SERVICES is located in Gen. Trias, Cavite, Philippines and is part of the Architectural, Engineering, and Related Services Industry."],
+      "achievements":[]},
+
+    "5":{"name":"EOL BUILDERS", 
+      "address":"ADDRESS: Block 65 Lot 22, Village 3, Harvard Street, Metro South Subdivision, Barangay Biclatan Gen. Trias, Cavite, 4107 Philippines", 
+      "contact":["CONTACT NUMBER: +63-9173098077"],
+      "email":[],
+      "website":[],
+      "desc":["OVERVIEW: EOL BUILDERS is located in Gen. Trias, Cavite, Philippines and is part of the Residential Building Construction Industry."],
+      "achievements":[]}
+
+}

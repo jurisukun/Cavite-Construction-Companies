@@ -1,0 +1,34 @@
+{
+    "0":{"name":"KM TARUC BUILDERS CORP.", 
+      "address": "ADDRESS: 210 Daang Luma Salaban Amadeocavite Amadeo, Cavite, 4119 Philippines", 
+      "contact":["CONTACT NUMBER: N/A"],
+      "email":["EMAIL ADRESS: kmtbuilders@taruc.ph"],
+      "website":["https://web.facebook.com/kmtbuilders/"],
+      "desc":"OVERVIEW: KM TARUC BUILDERS CORP. is located in Amadeo, Cavite, Philippines, and is part of the Nonresidential Building Construction Industry. ",
+      "achievements":[]},
+
+      "1":{"name":"A.D. Magallanes Jr. Builders and Construction Supply", 
+        "address":"ADDRESS: C.M. De Los Reyes Avenue, Amadeo, 4119 Cavite", 
+        "contact":["CONTACT NUMBER: (046)6833910 | 0917 110 6720"],
+        "email":["EMAIL ADRESS: algilmaemagallanes@gmail.com"],
+        "website":["https://www.facebook.com/ADMagallanesJr/"],
+        "desc":"OVERVIEW: ADMJ Builders & Construction Supply offers a wide variety of services including Construction Services, Design and Build Services, General Works, Civil Works, Architectural, Electrical, Mechanical, and Plumbing Works, and other construction related works.",
+        "achievements":[]},
+
+    
+      "2":{"name":"Mirasol M. Medina Construction and Trading", 
+        "address":"ADDRESS: 322 Matagbak Talon, Amadeo, Cavite", 
+        "contact":["CONTACT NUMBER: (046)4834041"],
+        "email":["EMAIL ADRESS: algilmaemagallanes@gmail.com"],
+        "website":["https://www.facebook.com/pages/Mirasol-M-Medina-Construction-and-Trading/237999723708192"],
+        "desc":[],
+        "achievements":[]},
+
+    "3":{"name":"TheGincarlo1", 
+        "address":"ADDRESS: 053 Brgy, Amadeo, Cavite", 
+        "contact":["CONTACT NUMBER: 09355 885 892 | 0906 803 8437 | 0918 366 1113"],
+        "email":["EMAIL ADRESS: hegincarlo1@yahoo.com"],
+        "website":["https://www.facebook.com/tG1Costa/"],
+        "desc":["OVERVIEW: Design, Construction, Printing and other related works."],
+        "achievements":[]}
+}  

@@ -1,0 +1,42 @@
+{
+    "0":{"name":"POSTEMA CONSTRUCTION & DEVELOPMENT", 
+      "address":"ADDRESS: Sitio Postema, Brgy. Sahod-Ulan Tanza, Cavite, 4108 Philippines", 
+      "contact":["CONTACT NUMBER: +63-468851057"],
+      "email":["EMAIL ADRESS: N/A"],
+      "website":["https://web.facebook.com/pages/Postema-Construction-and-Development/205907009910017"],
+      "desc":"OVERVIEW: POSTEMA CONSTRUCTION & DEVELOPMENT is located in Tanza, Cavite, Philippines, and is part of the Nonresidential Building Construction Industry.",
+      "achievements":[]},
+
+    "1":{"name":"GOZOIKOS CONSTRUCTION INC.", 
+      "address":"ADDRESS: Ground Floor, Unit 4 A&A Building A. Sorianohighway Bucal Tanza, Cavite, 4108 Philippines", 
+      "contact":["CONTACT NUMBER: (046) 484 7609 | +639 164 732 014"],
+      "email":["EMAIL ADRESS: gozoikos@gmail.com"],
+      "website":["https://web.facebook.com/gozoikosconstruction/?_rdc=1&_rdr"],
+      "desc":"OVERVIEW: GOZOIKOS CONSTRUCTION INC. is located in Tanza, Cavite, Philippines, and is part of the Residential Building Construction Industry.",
+      "achievements":[]},
+
+    "2":{"name":"M.Q. UY CONSTRUCTION", 
+      "address":"ADDRESS: Block 12 Lot18 Southcrest Hills Subdivision Calibuyo Tanza, Cavite, 4108 Philippines", 
+      "contact":["CONTACT NUMBER: +63-9497859821 | 0932 850 7247"],
+      "email":["EMAIL ADRESS: mquyconstruction@yahoo.com"],
+      "website":["https://web.facebook.com/MQ-Uy-Construction-167105853349314/"],
+      "desc":"OVERVIEW: M.Q. UY CONSTRUCTION is located in Tanza, Cavite, Philippines and is part of the Nonresidential Building Construction Industry. ",
+      "achievements":[]},
+    
+    "3":{"name":"DALEBO CONSTRUCTION INC. / DALEBO CONSTRUCTION & GENERAL MERCHANDISE", 
+      "address":"ADDRESS: B5 L12 Glowing Field Subd. Mangga Sahud Ulan Tanza, Cavite, 4108 Philippines", 
+      "contact":["CONTACT NUMBER: +63-9055410404 | (046) 885 2605"],
+      "email":["EMAIL ADRESS: dalebo24@yahoo.com"],
+      "website":["https://www.facebook.com/daleboconstruction/"],
+      "desc":"OVERVIEW: DALEBO CONSTRUCTION INC. is located in Tanza, Cavite, Philippines, and is part of the Other Specialty Trade Contractors Industry.  ",
+      "achievements":[]},
+
+    "4":{"name":"I. G. CASTILLO CONSTRUCTION", 
+      "address":"ADDRESS: Phase 3 Block 22 Lot 4 Springfield View Subdivision, Barangay Sahud Ulan Tanza, Cavite, 4108 Philippines", 
+      "contact":["CONTACT NUMBER: +63-9338106842"],
+      "email":["EMAIL ADRESS: N/A"],
+      "website":["https://web.facebook.com/IGCastillo-Construction108274614183737/?_rdc=1&_rdr"],
+      "desc":"OVERVIEW: I.G. CASTILLO CONSTRUCTION is located in Tanza, Cavite, Philippines and is part of the Residential Building Construction Industry. ",
+      "achievements":[]}
+
+}

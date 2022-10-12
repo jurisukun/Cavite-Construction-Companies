@@ -180,13 +180,14 @@ main {
 
 #cPhoneDiv{
   font-size: 15px;
-  color: rgb(255, 255, 255);
+  color: black;
   margin-top: 20px;
   
 }
 
 #cEmailDiv,#cWebDiv,#cDescDiv,#cAchieveDiv{
   margin-top: 20px;
+  text-align: justify;
 }
 
 #back_bttn{
@@ -231,6 +232,11 @@ main {
   font-size: 20px;
   color:#fff;
   font-style: bold;
+}
+.compNameList:hover{
+  color: #000080;
+  background-color: #709ED6;
+  border-radius: 5px;
 }
 .compAddressList{
   font-size: 14px;
@@ -351,7 +357,8 @@ main {
 }
 #numpageDiv{
   display: block;
-  margin-top:15px
+  margin-left: 12px;
+  margin-bottom: 12px;
 }
 
 .bttnPages{
@@ -361,6 +368,12 @@ main {
   border-radius: 5px;
   margin-right: 5px;
   height: 30px;
+  border: 1px solid #fff;
+  transition: .5s;
+}
+.bttnPages:hover{
+  background-color: #6cdbeb;
+
 }
 
 .activePage{

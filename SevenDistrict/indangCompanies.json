@@ -1,0 +1,25 @@
+{
+    "0":{"name":"KM TARUC BUILDERS CORP.", 
+      "address":"ADDRESS: 66 Kaytapos, Indang, Cavite, 4122 Philippines ", 
+      "contact":["CONTACT NUMBER: +63-464151168"],
+      "email":["EMAIL ADRESS: N/A"],
+      "website":["https://web.facebook.com/pages/JeddaiConstruction/805450459604788"],
+      "desc":"OVERVIEW: JEDDAI CONSTRUCTION is located in Indang, Cavite, Philippines, and is part of the Nonresidential Building Construction Industry. ",
+      "achievements":[]},
+
+    "1":{"name":"Ladines Construction Services (LCS)", 
+      "address":"ADDRESS: Asama Homes Subdivision, Indang, 4122 Cavite", 
+      "contact":["CONTACT NUMBER: 0956 413 0969"],
+      "email":["EMAIL ADRESS: thegincarlo1@yahoo.com"],
+      "website":["https://www.facebook.com/tG1Costa/"],
+      "desc":"OVERVIEW: Masonry, Plumbing, Electrical, Carpentry, Metal works, Painting, Landscape and hardscape. ",
+      "achievements":[]},
+
+    "2":{"name":"A.C. DEL LARA CONSTRUCTION", 
+      "address":"ADDRESS: 120 Calumpang Lejos, Indang, Cavite", 
+      "contact":["CONTACT NUMBER: 0464833715"],
+      "email":[],
+      "website":["https://www.facebook.com/pages/Ac-de-Lara-Construction-in-Cavite/201253103709034"],
+      "desc":[],
+      "achievements":[]}
+}

@@ -1,0 +1,44 @@
+{
+    "0":{"name":"UNI-TEC GLOBAL ENTERPRISES, INC.", 
+      "address":"ADDRESS: Ventanas Compound, Tolentino Street, Barangay Puting Kahoy Silang, Cavite, 4118 Philippines", 
+      "contact":["CONTACT NUMBER: +63(46) 443 3940 | +63(49) 576 4867 | +639 17 152 6288"],
+      "email":["EMAIL ADRESS: corp@unitecglobal.com"],
+      "website":["http://www.unitecglobal.com/ "],
+      "desc":["OVERVIEW: UNI-TEC GLOBAL ENTERPRISES, INC. is located in Silang, Cavite, Philippines and is part of the Nonresidential Building Construction Industry.",
+        "Uni-tec Global Enterprises, Inc., a bold and innovative company forged by a few selected Semiconductor-Electronics seasoned professionals from different specialized disciplines sharing a UNIFIED Vision to provide high level of Engineering Services, Engineered Specialty Products, Design and Build Turn-key Construction and other Facilities Operation Requirement, Maintenance and Support demanded by the ever evolving manufacturing and facilities industry."],
+      "achievements":["ACHIEVEMENTS: N/A"]},
+
+    "1":{"name":"STAGE RIGGERS, INC.", 
+      "address":"ADDRESS: Blk 4 Lot 1 and 2 Greenway Business Park, Brgy Old Bulihan, Silang, Cavite  4118 Philippines", 
+      "contact":["CONTACT NUMBER: +639171022240 | 09190059480"],
+      "email":["EMAIL ADRESS: joel@stageriggers-ph.com | inquiry@stageriggers-ph.com"],
+      "website":["http://stageriggers.com.ph/ "],
+      "desc":["OVERVIEW: STAGE RIGGERS, INC. is located in Silang, Cavite, Philippines and is part of the Other Specialty Trade Contractors Industry.",
+        "STAGE RIGGERS, INC., is a rigging company that provides and leases facilities for concerts, theater productions, special events, product launches, and even weddings, sports, and religious events. Such facilities include stage platforms, lighting towers, overhead lighting trusses, speaker platforms, temporary roofing structures and covers, barricades, bleacher risers, camera platforms, etc."],
+      "achievements":["ACHIEVEMENTS: N/A"]},
+
+    "2":{"name":"Monsieur Construction", 
+      "address":"ADDRESS: Silang Banaybanay Road, Lucsuhin 4118 Silang, Philippines", 
+      "contact":["CONTACT NUMBER: (046) 482 1155"],
+      "email":["EMAIL ADRESS: monsieur.construction09@gmail.com"],
+      "website":["https://www.facebook.com/MonsieurConstruction2009/ "],
+      "desc":["OVERVIEW: MONSIEUR CONSTRUCTION is an architectural design and construction firm established in 2009. It provides a complete range of services from architectural, engineering and interior design to space planning, construction and project management. The firm also offers feasibility studies, cost engineering and other related services."],
+      "achievements":["ACHIEVEMENTS: N/A"]},
+
+    "3":{"name":"Project Luna Construction", 
+      "address":"ADDRESS: 218 J.P. Rizal Street 4118 Silang, Philippines", 
+      "contact":["CONTACT NUMBER: 0905 566 3747"],
+      "email":["EMAIL ADRESS: projectluna.construction@gmail.com"],
+      "website":["https://www.facebook.com/projectluna.construction/"],
+      "desc":["OVERVIEW: Project Luna is a pioneering general contractor that offers good quality services at a very reasonable cost."],
+      "achievements":["ACHIEVEMENTS: N/A"]},
+
+    "4":{"name":"1984 Construction Services", 
+      "address":"ADDRESS: 4118 Silang, Philippines", 
+      "contact":["CONTACT NUMBER: N/A"],
+      "email":["EMAIL ADRESS: 1984constructionservices@gmail.com"],
+      "website":["https://www.facebook.com/1984constructionservices/"],
+      "desc":["OVERVIEW: 1984 CONSTRUCTION SERVICES provides General Contracting and Construction Management covering Structural, Renovation and Architectural Services."],
+      "achievements":["ACHIEVEMENTS: N/A"]}
+
+}

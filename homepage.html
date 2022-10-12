@@ -18,7 +18,7 @@
         <div class="sidebar">
             <div class="top">
                 <a href="homepage.html">HOME</a>
-                <a href="homepage.html"><img src="logo.png"></a>
+                <a href="index.html"><img src="logo.png"></a>
             </div>
             <div class="links">
                 <div class="place">
@@ -70,11 +70,9 @@
                               <div class="adiv"><a id="tagaytay" class="a"href=# >Tagaytay</a></div>
                               <div class="adiv"><a id="alfonso" class="a"href=# >Alfonso</a></div>
                               <div class="adiv"><a id="gea" class="a"href=# >General Emilio Aguinaldo</a></div>
-                              <div class="adiv"><a id="magallanes" class="a"href=# >Magallanes</a></div>
-                              <div class="adiv"><a id="marag" class="a"href=# >Maragondon</a></div>
+                              <div class="adiv"><a id="magallanes" class="a"href=# >Magallanes</a></div>                     
                               <div class="adiv"><a id="mendez" class="a"href=# >Mendez</a></div>
                               <div class="adiv"><a id="naic" class="a"href=# >Naic</a></div>
-                              <div class="adiv"><a id="ternate" class="a"href=# >Ternate</a></div>
                           </div>
 
     
@@ -97,7 +95,9 @@
   <script>
   
   $(document).ready(function(){
-    arr=["./FirstDistrict/cavitecityCompanies.json","./FirstDistrict/kawitCompanies.json","./FirstDistrict/noveletaCompanies.json", "./FirstDistrict/rosarioCompanies.json"," ","./ThirdDistrict/imusCompanies.json"]
+    arr=["./FirstDistrict/cavitecityCompanies.json","./FirstDistrict/kawitCompanies.json","./FirstDistrict/noveletaCompanies.json", "./FirstDistrict/rosarioCompanies.json","./SecondDistrict/bacoorCompanies.json","./ThirdDistrict/imusCompanies.json","./FourthDistrict/dasmaCompanies.json","./FifthDistrict/carmonaCompanies.json","./FifthDistrict/silangCompanies.json","./FifthDistrict/gmaCompanies.json","./SixDistrict/gentriCompanies.json",
+    "./SevenDistrict/amadeoCompanies.json","./SevenDistrict/indangCompanies.json","./SevenDistrict/tanzaCompanies.json","./SevenDistrict/treceCompanies.json","./EightDistrict/tagaytayCompanies.json",
+    "./EightDistrict/alfonsoCompanies.json","./EightDistrict/geaCompanies.json","./EightDistrict/magallanesCompanies.json","./EightDistrict/mendezCompanies.json","./EightDistrict/naicCompanies.json"]
 
     $("#firstDistBttn").click(function(){
       $("#firstDistDiv").toggle()
@@ -246,6 +246,9 @@
                         var divDescInfos=null;
                         $(this).find("a").click(function(){
                             //remove this divs if already shown
+                            $('#info h1').empty()
+                            $('#info h1').append("Company Name")
+
                             $("#divDescInfos").remove()
                             $("#parentDiv").empty()
                             $("#numpageDiv").empty()
